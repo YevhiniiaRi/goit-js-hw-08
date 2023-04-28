@@ -1,6 +1,6 @@
 import Player from '@vimeo/player';
 
-const player = new Player('video-player', {
+const player = new Player('vimeo-player', {
   id: 236203659,
   autoplay: true,
 });
